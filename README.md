@@ -1,7 +1,7 @@
 # spring-boot-satellizer
 Spring-boot-satellizer is an embedded Java Web application that implements support in Spring Boot to the token-based authentication module for AngularJS Satellizer (https://github.com/sahat/satellizer), currently support to Facebook and Google is included
 
-First step is getting the Google and Facebook OAuth Keys
+First step is Obtaining the Google and Facebook OAuth Keys
 
 
 ## Obtaining OAuth Keys
