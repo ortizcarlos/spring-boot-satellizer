@@ -37,6 +37,6 @@ public class DefaultUserServiceImpl implements UserService {
 
     @Override
     public User save(User user) {
-        return this.save(user);
+        return this.userRepository.save(user);
     }
 }
